@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const passport = require('passport');
-const dotenv = require('dotenv');
+//const dotenv = require('dotenv');
 const cors = require('cors');
 
 dotenv.config();
